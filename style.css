@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(24, 0, 27);
+    color: rgb(201, 255, 162);
+}
+
+.text-center {
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
